@@ -1,3 +1,4 @@
+'use strict';
 //////////////// Module Pattern ////////////////
 // Encapsulating implementation details with an IIFIE that's executed at least once and exposing a public api
 

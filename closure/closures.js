@@ -1,3 +1,4 @@
+'use strict';
 //////////////// Closure ////////////////
 // A function that remembers variables or functtions in its lexical scope even when executed in a different scope
 
